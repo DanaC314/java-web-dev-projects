@@ -1,4 +1,4 @@
 package org.launchcode;
 
-public class MenuItem {
-
+public class Area {
+}
